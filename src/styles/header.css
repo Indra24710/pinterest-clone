@@ -1,0 +1,21 @@
+.Jumbo{
+  background-color:white;
+    padding: 18px;
+    display: flex;
+
+}
+.nav{
+    list-style: none;
+    padding: 8px;
+
+}
+
+ li{
+   font-family: 'Roboto','Serif';
+   color:grey;
+   padding-right: 19px;
+   padding-left: 15px;
+ }
+
+
+  
